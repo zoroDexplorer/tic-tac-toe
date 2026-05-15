@@ -103,6 +103,7 @@ const TicTacToe = () => {
         <button className="btn btn-secondary" onClick={resetScores}>
           Reset Scores
         </button>
+        <h1>style marinde naa nadaka marinde... Jai Babu</h1>
       </div>
       <h1>I love TicTacToe</h1>
     </div>
