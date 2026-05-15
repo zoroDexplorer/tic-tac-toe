@@ -104,6 +104,7 @@ const TicTacToe = () => {
           Reset Scores
         </button>
         <h1>style marinde naa nadaka marinde... Jai Babu</h1>
+        <h1>Arey na batta nee moggu muyya</h1>
       </div>
       <h1>I love TicTacToe</h1>
     </div>
